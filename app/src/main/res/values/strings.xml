@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BLE Sample Project</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bt_off">Bluetooth is off!</string>
+    <string name="bt_on">Bluetooth is on</string>
+    <string name="bt_turning_off">Bluetooth is turning off...</string>
+    <string name="bt_turning_on">Bluetooth is turning on...</string>
+    <string name="device_connected">Connected</string>
+    <string name="device_connecting">Connecting</string>
+    <string name="device_disconnected">Disconnected</string>
+</resources>
